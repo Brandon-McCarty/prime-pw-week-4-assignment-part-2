@@ -1,3 +1,21 @@
 body {
-    background-color: dimgray;
+    background: radial-gradient(80% 40%, #154734, black);
+    text-align: center;
+}
+
+.header {
+    background-color: #A6192E;
+    color: white;
+    margin: 0 auto;
+}
+
+.info {
+    background-color: #DDCBA4;
+    color: #A6192E;
+}
+
+h3 {
+    background-color: #A6192E;
+    color: #DDCBA4;
+    margin-left: 0 auto;
 }
